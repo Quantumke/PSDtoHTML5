@@ -1,0 +1,44 @@
+body{
+   font-family: 'Josefin Sans', sans-serif;
+}
+.header-bar{
+    background: #000;
+    color: #FFF;
+    margin-bottom: -20px;
+}
+.header-bar-links{
+    margin-top: 15px;
+}
+.link{
+    color: #fff;
+}
+.link:focus{
+ color: #F4DA18;
+
+}
+
+.bg-header {
+    background: url(../img/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.bg-text{
+    padding-top: 150px;
+    text-align: center;
+
+}
+.largetext{
+    font-size: 58px;
+    color: #F4DA18;
+    text-transform: uppercase;
+}
+.smalltext{
+        font-size: 20px;
+    color: #FFF;
+    text-transform: uppercase;
+
+}
+.linebtm{
+    border-bottom: 1px solid white;
+}
