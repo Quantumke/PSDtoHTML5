@@ -21,7 +21,7 @@ body{
     background: url(../img/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 500px;
+    height: 590px;
 }
 .bg-text{
     padding-top: 150px;
@@ -41,4 +41,11 @@ body{
 }
 .linebtm{
     border-bottom: 1px solid white;
+}
+.about-large{
+    text-align: center;
+}
+.abouttxtsize{
+    font-size: 25px;
+    font-weight: bold;
 }
