@@ -1,5 +1,6 @@
 body{
    font-family: 'Josefin Sans', sans-serif;
+    overflow-y: hidden;
 }
 .header-bar{
     background: #000;
@@ -48,4 +49,15 @@ body{
 .abouttxtsize{
     font-size: 25px;
     font-weight: bold;
+    margin-top: 40px;
+}
+.services{
+margin-left: 12.5%;
+    text-align: center;
+}
+.title-services{
+    text-align: center;
+     font-size: 25px;
+    font-weight: bold;
+    margin-top: 40px;
 }
